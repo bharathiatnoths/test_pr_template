@@ -12,8 +12,6 @@ List the main changes made to implement the feature.
 - [ ] Criteria 3
 - [ ] Criteria 3
 
-
-
 ## Related Issues
 Reference any related issues or feature requests here.
 
